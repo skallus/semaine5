@@ -1,0 +1,75 @@
+.row [class^="col-"] { 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    background-color: #eee; 
+    border: 3px solid ThreeDDarkShadow; 
+} 
+footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+    height: 45px; 
+} 
+h4 { 
+    margin: 10px; 
+} 
+h3 { 
+    margin-top: 50px; 
+    margin-left: 200px; 
+    color: white; 
+} 
+p { 
+    text-align: right; 
+    color: white; 
+} 
+h4, .triangle, .arrow { 
+    color: black; 
+} 
+.image { 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 25px; 
+} 
+.image1 { 
+    display: block; 
+    margin-left: auto;
+     margin-right: auto; 
+     margin-top: 60px; 
+} 
+.image-circle { 
+    float: left; 
+    margin-top: 10px; 
+} 
+.arrow:after { 
+    content: "\2794"; 
+    position: absolute; 
+    top: 5px; 
+    right: 10px; 
+    font-size: 25px; 
+} 
+.triangle:after { 
+    content: "\25BA"; 
+    position: absolute; 
+    top: 5px; 
+    right: 5px; 
+    font-size: 25px;
+} 
+.gris { 
+    background-color: DarkGray; 
+} 
+.orange { 
+    background-color: Tomato; 
+} 
+.violet { 
+    background-color: SlateBlue; 
+} 
+.jaune { 
+    background-color: Yellow; 
+} 
+.vert { 
+    background-color: MediumSpringGreen; 
+} 
+.bleue { background-color: DodgerBlue;
+}
